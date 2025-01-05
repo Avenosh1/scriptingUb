@@ -1,0 +1,14 @@
+cd # change directory
+pwd # where I am
+ls # show all files 
+cp # copy content
+mv # move content
+rm # remove content
+echo # same as print ("Hello world")
+cat # show the content of the file 
+less # like vim or nano but for large files and more functionality
+grep # search for the patterns in a file
+mkdir # make a diretory
+touch # create a file 
+chmod # change the permissions 
+man + help # instructions of the command
